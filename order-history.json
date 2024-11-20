@@ -1,0 +1,30 @@
+{
+  "orders": [
+    {
+      "orderId": "1",
+      "date": "2024-11-01",
+      "total": "$49.99",
+      "items": [
+        {
+          "productName": "Puzzle A",
+          "quantity": 2
+        },
+        {
+          "productName": "Board Game B",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "orderId": "2",
+      "date": "2024-11-10",
+      "total": "$29.99",
+      "items": [
+        {
+          "productName": "Puzzle C",
+          "quantity": 3
+        }
+      ]
+    }
+  ]
+}

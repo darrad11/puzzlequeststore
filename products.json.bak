@@ -1,0 +1,156 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Puzzle 1000 Pieces - Nature Scene",
+            "category": "puzzle",
+            "price": 59.99,
+            "image": "images/puzzle1000_nature.jpg",
+            "bestseller": true
+        },
+        {
+            "id": 2,
+            "name": "Puzzle 1000 Pieces - Cityscape",
+            "category": "puzzle",
+            "price": 54.99,
+            "image": "images/puzzle1000_cityscape.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Puzzle 2000 Pieces - Starry Night",
+            "category": "puzzle",
+            "price": 89.99,
+            "image": "images/puzzle2000_starry_night.jpg",
+            "bestseller": true
+        },
+        {
+            "id": 4,
+            "name": "Puzzle 2000 Pieces - Ocean Waves",
+            "category": "puzzle",
+            "price": 85.99,
+            "image": "images/puzzle2000_ocean_waves.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Puzzle 3000 Pieces - World Map",
+            "category": "puzzle",
+            "price": 129.99,
+            "image": "images/puzzle3000_world_map.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Puzzle 3000 Pieces - Forest Adventure",
+            "category": "puzzle",
+            "price": 119.99,
+            "image": "images/puzzle3000_forest_adventure.jpg",
+            "bestseller": true
+        },
+        {
+            "id": 7,
+            "name": "Puzzle 6000 Pieces - The Last Supper",
+            "category": "puzzle",
+            "price": 199.99,
+            "image": "images/puzzle6000_last_supper.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Puzzle 6000 Pieces - Amazing Animals",
+            "category": "puzzle",
+            "price": 189.99,
+            "image": "images/puzzle6000_amazing_animals.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Board Game - Settlers of Catan",
+            "category": "boardgame",
+            "price": 44.99,
+            "image": "images/settlers_of_catan.jpg",
+            "bestseller": true
+        },
+        {
+            "id": 10,
+            "name": "Board Game - Ticket to Ride",
+            "category": "boardgame",
+            "price": 39.99,
+            "image": "images/ticket_to_ride.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Board Game - Carcassonne",
+            "category": "boardgame",
+            "price": 34.99,
+            "image": "images/carcassonne.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Board Game - Pandemic",
+            "category": "boardgame",
+            "price": 59.99,
+            "image": "images/pandemic.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Board Game - Codenames",
+            "category": "boardgame",
+            "price": 24.99,
+            "image": "images/codenames.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Board Game - Dixit",
+            "category": "boardgame",
+            "price": 29.99,
+            "image": "images/dixit.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Board Game - Exploding Kittens",
+            "category": "boardgame",
+            "price": 19.99,
+            "image": "images/exploding_kittens.jpg",
+            "type": "kids",
+            "bestseller": false
+        },
+        {
+            "id": 16,
+            "name": "Board Game - Draughts",
+            "category": "boardgame",
+            "price": 24.99,
+            "image": "images/draughts.jpg",
+            "type": "kids",
+        },
+        {
+            "id": 17,
+            "name": "Board Game - Chess",
+            "category": "boardgame",
+            "price": 49.99,
+            "image": "images/chess.jpg",
+            "type": "strategic"
+        },
+        {
+            "id": 18,
+            "name": "Board Game - Risk",
+            "category": "boardgame",
+            "price": 59.99,
+            "image": "images/risk.jpg",
+            "type": "strategic"
+        },
+        {
+            "id": 19,
+            "name": "Board Game - The Game of Life",
+            "category": "boardgame",
+            "price": 39.99,
+            "image": "images/game_of_life.jpg",
+            "type": "family"
+        },
+        {
+            "id": 20,
+            "name": "Board Game - Monopoly",
+            "category": "boardgame",
+            "price": 49.99,
+            "image": "images/monopoly.jpg",
+            "type": "family",
+			"bestseller": true
+        }
+    ]
+}
