@@ -590,9 +590,9 @@ nav ul li:hover .dropdown {
 }
 
 .section-divider {
-    width: 80%;
+    width: 88%;
     height: 2px;
-    background-color: #ddd;
+    background-color: #333;
     margin: 40px auto;
     border-radius: 4px;
 }
@@ -614,7 +614,6 @@ table {
     border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     margin: 20px auto;
-    max-width: 800px;
     text-align: left;
 }
 
