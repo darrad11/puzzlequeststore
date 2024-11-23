@@ -249,6 +249,18 @@ nav ul li:hover .dropdown {
     object-fit: cover;
 }
 
+@media (min-width: 768px) {
+    .hero {
+        height: 400px;
+    }
+}
+
+@media (max-width: 767px) {
+    .hero {
+        height: 200px;
+    }
+}
+
 /* Slider */
 .slider {
     position: relative;
