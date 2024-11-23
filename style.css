@@ -649,6 +649,19 @@ table tbody td {
     color: #555;
 }
 
+.feature-title {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.feature-description {
+    font-weight: normal;
+    font-size: 0.6em;
+    display: block;
+    color: #555;
+}
+
 @media (max-width: 768px) {
     table {
         display: block;
