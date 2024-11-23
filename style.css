@@ -248,6 +248,7 @@ nav ul li:hover .dropdown {
     max-width: 100%;
     height: auto;
     object-fit: contain;
+    margin: auto;
 }
 
 @media (min-width: 768px) {
