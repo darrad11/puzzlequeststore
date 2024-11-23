@@ -239,7 +239,8 @@ nav ul li:hover .dropdown {
     height: 250px;
     background-color: #f4f4f4;
     overflow: hidden;
-    display: flex;
+    justify-content: center;	
+    align-items: center;
 }
 
 .hero img {
@@ -247,8 +248,6 @@ nav ul li:hover .dropdown {
     max-width: 100%;
     height: auto;
     object-fit: contain;
-    justify-content: center;
-    align-items: center;
 }
 
 @media (min-width: 768px) {
