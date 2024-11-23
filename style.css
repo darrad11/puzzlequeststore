@@ -12,6 +12,25 @@ body {
     color: #333;
 }
 
+.ad-banner {
+    width: 80px;
+    background-color: #f9f9f9;
+    border-left: 1px solid #ccc;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ad-banner img {
+    max-width: 100%;
+    height: auto;
+    padding: 2px;
+    object-fit: contain;
+}
+
 /* Header */
 header {
     background-color: #333;
