@@ -239,6 +239,7 @@ nav ul li:hover .dropdown {
     height: 250px;
     background-color: #f4f4f4;
     overflow: hidden;
+    display: flex;
     justify-content: center;	
     align-items: center;
 }
