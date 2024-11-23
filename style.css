@@ -245,8 +245,8 @@ nav ul li:hover .dropdown {
     width: 90%;
     min-height: 150px;
     position: absolute;
-    top: 0;
-    left: 0;
+    margin: 2px;
+    padding: 2px;
     object-fit: cover;
 }
 
