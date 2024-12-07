@@ -604,6 +604,7 @@ table {
     background-color: #f9f9f9;
     border-radius: 8px;
     overflow: hidden;
+    table-layout: fixed;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
@@ -680,7 +681,7 @@ table tbody td {
 
 .logos img, .media-mentions img {
     max-height: 80px;
-    margin: 10px;
+    margin: 20px;
     display: inline-block;
     transition: transform 0.3s;
 }
@@ -706,7 +707,7 @@ table tbody td {
 }
 
 .mission-vision p {
-    margin: 5px 0;
+    margin: 10px 0;
 }
 
 address {
