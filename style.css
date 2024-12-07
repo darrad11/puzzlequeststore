@@ -608,11 +608,10 @@ table {
 }
 
 #table {
-    padding: 30px;
+    padding: 10px;
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-    margin: 20px auto;
     text-align: center;
 }
 
@@ -677,13 +676,6 @@ table tbody td {
     margin: 20px auto;
     max-width: 800px;
     text-align: center;
-}
-
-#social-proof h2, #contact-info h2 {
-    text-align: center;
-    font-size: 1.8em;
-    color: #333;
-    margin-bottom: 20px;
 }
 
 .logos img, .media-mentions img {
