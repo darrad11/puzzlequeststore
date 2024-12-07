@@ -598,8 +598,8 @@ nav ul li:hover .dropdown {
 }
 
 table {
-    width: 70%;
-    margin: 20px;
+    width: 100%;
+    margin: 10px;
     font-size: 1em;
     background-color: #f9f9f9;
     border-radius: 8px;
@@ -681,7 +681,7 @@ table tbody td {
 
 #social-proof h2, #contact-info h2 {
     text-align: center;
-    font-size: 0.8em;
+    font-size: 1.8em;
     color: #333;
     margin-bottom: 20px;
 }
