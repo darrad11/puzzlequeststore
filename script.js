@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
         // Funkcja do wyświetlania slajdów
         function showSlide(index) {
-            if (index >= totalSlides) currentSlide = 0;
+            if (index >= totalSlides) currentSlide = 1;
             else if (index < 0) currentSlide = totalSlides - 1;
             else currentSlide = index;
 
